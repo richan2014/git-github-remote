@@ -16,6 +16,8 @@ git commit -a -m "add all files" // adding all files which are already added bef
 git checkout master
 
 // merge local branch back to the master
+// on the master branch
+git checkout master
 git merge {branch_name} 
 git merge firstbranch
 
