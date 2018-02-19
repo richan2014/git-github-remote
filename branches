@@ -1,0 +1,8 @@
+local branch
+remote branch
+
+// create a new branch with all the files in master branch
+$ git branch firstbranch
+
+// switch branch
+git checkout firstbranch
