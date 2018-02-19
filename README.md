@@ -8,7 +8,7 @@ git status
 git add
 git add -A // add all files
 git commit -m "message"          // adding one file
-git commit -a -m "add all files" // adding all files
+git commit -a -m "add all files" // adding all files which are already added before
 
 // create a new file into the new branch
 
