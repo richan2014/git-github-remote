@@ -1,1 +1,3 @@
-file6.txt
+file 6 on branch3
+
+This is an additional line
